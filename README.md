@@ -15,6 +15,9 @@
 - Backend Development
 - Software Engineering
 - Automation
+- Web Development
+- GUI (graphical user interface)
+- Computer Networks
 
 📫 Contact:
 LinkedIn: [...](https://www.linkedin.com/in/lucas-henrique-gregorio-a26a38354)
