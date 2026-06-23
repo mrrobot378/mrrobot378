@@ -1,6 +1,21 @@
 "A melhor maneira de prever o futuro é inventá-lo." - Alan Kay
 
-- 🔭 I’m currently working on my personal site
-- 🌱 I’m currently learning C, Java, HTML, CSS, JavaScript and Python
-- 📫 How to reach me: lucasgregorio456@gmail.com
-- ⚡ Fun fact: I really like learning about Computer Network
+# Olá, eu sou Lucas Henrique Gregorio
+
+🎓 Computer Science Student
+
+💻 Technologies:
+- Java
+- Python
+- C
+- SQL
+- WEB (HTML, CSS, JavaScript)
+
+📚 Interests:
+- Backend Development
+- Software Engineering
+- Automation
+
+📫 Contact:
+LinkedIn: [...](https://www.linkedin.com/in/lucas-henrique-gregorio-a26a38354)
+Email: lucasgregorio456@gmail.com
